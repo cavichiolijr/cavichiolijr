@@ -1,4 +1,4 @@
-# :man_technologist: Odair Cavichioli Jr.
+:coffee: Odair Cavichioli Jr.
 
 ## Project Manager / Business Analytics and Data Science
 
